@@ -1,5 +1,5 @@
 # pythonic_monopoly
-SFO Real Estate Analysis Data Frames and Charts
+**SFO Real Estate Analysis Data Frames and Charts**
 
 The objective of the Pythonic Monopoly project is to analyze the San Francisco real estate. In this project, we retrieve the data from Census databases and Mapbox APIs. We then customize our own data frames and plot the charts.
 
